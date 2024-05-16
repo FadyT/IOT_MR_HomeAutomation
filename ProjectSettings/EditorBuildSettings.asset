@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/XR Interaction Toolkit/3.0.1/AR Starter Assets/ARDemoScene.unity
+    guid: da4db6c21a88243878fecfe160c1be3b
+  m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 11e46bc558430d746b787fe92b155927, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 098ac4a0c5faca143a04b4f0b354d548, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d794b096a295ec244a88404036dd0e0d, type: 2}
